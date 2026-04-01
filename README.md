@@ -4,8 +4,6 @@
 
 Advanced statistical analysis with actionable insights for policy makers and researchers.
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
-
 ## About
 
 This project analyzes state-wise suicide rates in India and their correlation with literacy rates, unemployment rates, and gender gaps. It features a five-stage data processing pipeline — from data ingestion through preprocessing, analysis, visualization, to actionable insights — built with Python, Pandas, Plotly, and Dash.
